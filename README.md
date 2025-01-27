@@ -37,7 +37,7 @@ Spotify
 -Ability to download playlists for offline listening
 
 ## Notes
-
+The main drawbacks of your original code were incorrect use of @IBOutlet as a computed property and misplaced logic for changing colors. These issues, combined with potential disconnected outlets in the Storyboard, likely led to the uncaught exception error you encountered.
 ## License
 
     Copyright 2025 Wandile Banda
