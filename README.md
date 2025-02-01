@@ -36,8 +36,21 @@ Spotify
 -Seamless cross-device synchronization (phone, desktop, car)
 -Ability to download playlists for offline listening
 
+Easy Exchange 
+would be a mobile application that simplifies international money transfers and currency conversions. The app would leverage cutting-edge fintech technologies to provide users with a seamless, cost-effective, and secure way to manage cross-border transactions.
+Key features for Easy Exchange could include:
+
+~Real-time currency conversion for over 180 currencies, including cryptocurrencies like Bitcoin1.
+~Live exchange rates with historical graphs (1 day to 10 years) to help users make informed decisions1.
+~Instant cross-border transfers with 24/7 settlement, reducing the need for intermediaries and lowering transaction costs4.
+~Integration with popular payment methods such as credit cards, Apple Pay, and Google Pay2.
+~Advanced security features, including bank-level encryption and multi-factor authentication3.
+~A user-friendly interface with features like saved recipients, transfer tracking, and currency alerts3.
+~Educational resources to help beginners understand cryptocurrency and international finance5.
+~A rewards program to incentivize user engagement and loyalty
+
 ## Notes
-The main drawbacks of your original code were incorrect use of @IBOutlet as a computed property and misplaced logic for changing colors. These issues, combined with potential disconnected outlets in the Storyboard, likely led to the uncaught exception error you encountered.
+
 ## License
 
     Copyright 2025 Wandile Banda
